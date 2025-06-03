@@ -1,0 +1,9 @@
+numpy
+pandas 
+scikit-learn 
+streamlit
+tqdm
+st-annotated-text 
+biopython 
+millify 
+plotly 
