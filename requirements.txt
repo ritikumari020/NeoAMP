@@ -7,3 +7,4 @@ st-annotated-text
 biopython 
 millify 
 plotly 
+python-dotenv
