@@ -8,3 +8,4 @@ biopython
 millify 
 plotly 
 python-dotenv
+openai
