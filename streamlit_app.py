@@ -47,7 +47,7 @@ def predict_disease_from_peptide(peptide_sequence):
 # General options
 im = Image.open("favicon.ico")
 st.set_page_config(
-    page_title="AMPredST",
+    page_title="NeoAMP",
     page_icon=im,
     layout="wide",
 )
